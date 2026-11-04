@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+
+.DS_Store
+*~
+# *.gz
+# mnist.pkl
+.ipynb_checkpoints
