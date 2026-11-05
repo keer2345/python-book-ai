@@ -16,3 +16,6 @@ wheels/
 # *.gz
 # mnist.pkl
 .ipynb_checkpoints
+
+# dive-into-deep-learning-2nd
+dive-into-deep-learning-2nd/d2l-zh
